@@ -1,0 +1,15 @@
+CodeReview by Smaragda
+
+bond.h
+- add comments to getters/setters
+- add ifndef
+
+bond.cpp
+- remove useless includes
+- add stringstream
+
+bond.t.cpp - all fine
+
+Makefile - all fine
+
+

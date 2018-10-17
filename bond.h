@@ -1,3 +1,6 @@
+#ifndef BOND
+#define BOND
+
 class Bond {
 	private:
 		double par;
@@ -15,3 +18,4 @@ class Bond {
 			// marketPrice which returns the overall yield
 			// for the bond by it's par and interest rate
 };
+#endif

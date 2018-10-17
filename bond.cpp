@@ -1,5 +1,4 @@
 #include <bond.h>
-
 const double Bond::getPar(){
 	return par;
 }
